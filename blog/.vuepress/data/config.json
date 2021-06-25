@@ -1,0 +1,51 @@
+{
+  "title": "老镭",
+  "description": "这是老镭的博客",
+  "base": "/",
+  "themeConfig": {
+    "cover": "/images/cover.jpg",
+    "logo": "/images/logo.png",
+    "nav": [
+      {
+        "text": "首页",
+        "link": "/"
+      },
+      {
+        "text": "日志",
+        "link": "/posts"
+      },
+      {
+        "text": "标签",
+        "link": "/tags"
+      }
+    ],
+    "footer": [
+      {
+        "text": "Latest Posts",
+        "link": "/posts"
+      },
+      {
+        "text": "Facebook",
+        "link": "https://facebook.com/"
+      },
+      {
+        "text": "Twitter",
+        "link": "https://twitter.com"
+      },
+      {
+        "text": "Github",
+        "link": "https://github.com/wolone"
+      }
+    ],
+    "social": {
+      "github": "https://github.com/wolone",
+      "twitter": "https://twitter.com/"
+    },
+    "defaultAuthor": {
+      "link": "https://www.awow.top",
+      "name": "老镭",
+      "gravatar": "2bfa103a13c88b5ffd26da6f982f11df"
+    },
+    "search": true
+  }
+}
